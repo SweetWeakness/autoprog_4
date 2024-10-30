@@ -1,6 +1,9 @@
 ### 1
 > [yaml-файл спецификации](./consensus-analyzer/hw/resources/cnf_hw.yaml)
 
+### 2
+> [Код java-приложения](./consensus-scheduler/src/test/java/SendingConfirmationServiceImplTest.java)
+
 ### 3
 ![Image alt](./consensus-analyzer/hw/results/backward/graph.png)
 
